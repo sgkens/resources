@@ -1,0 +1,56 @@
+<svg version="1.2" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg ">
+  <defs></defs>
+  <style>
+    :root {
+      --namecolor: #E34234;
+      --versiontitlecolor: #fff;
+      --versionnumbercolor: #fff;
+      --rectheadercolor: #383838;
+      --rectheaderstrokecolor: #b22519;
+      --lineseperatorcolor: #898989;
+      --projectnamecolor: #25424f;
+      --fonttype:;
+    }
+    .name { font: italic bold 10px Verdana; fill: var(--projectnamecolor);}
+    .projectname  { fill: var(--namecolor); font:  bold 20px Fantasy;  }
+    .versiontitle { font: 6px  Fantasy; fill: var(--versiontitlecolor);}
+    .versionnumber { font: 5px Verdana; fill: var(--versionnumbercolor);}
+    .rectheader { stroke: var(--rectheaderstrokecolor) ; stroke-width: .7; fill: var(--rectheadercolor);}
+    .linesperator { stroke-width: 2; stroke: var(--lineseperatorcolor); }
+    .custom-shape-divider-bottom .shape-fill { fill: navy; }
+  </style>
+  <rect id="logobg" class="rectheader" x="6.886" y="9.674" rx="80" ry="80" width="44.228" height="44.228" style=""></rect>
+  <line id="linesperator" class="linesperator" y2="53" x1="60" x2="60" y1="9"></line>
+  <text x="64" y="27" id="projectname" class="projectname" style="white-space: pre;">Gitlab-APIRA
+
+
+
+</text>
+  <text id="name" class="name" x="63" y="41" style="white-space: pre;"> &gt; Codedus </text>
+  <text id="versiontitle" class="versiontitle" x="64" y="52" style="white-space: pre;">Version:</text>
+  <text id="versionnumber" x="87" y="52" class="versionnumber" style="white-space: pre;">0.1.1</text>
+  <svg xmlns="http://www.w3.org/2000/svg" id="svg_internal_logo" x="5" y="5" fill="blue" stroke="#494949" stroke-width=".3" width="48px" height="48px" viewBox="0 0 512 512" transform="matrix(1, 0, 0, 0.83496252140616, 85.02068328857422, 81.09459807523041)" style="">
+    <g>
+      <rect y="262.912" style="fill:#56545A" width="90.353" height="45.176"></rect>
+      <rect x="61.746" y="411.98" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 489.8141 666.249)" style="fill:#56545A" width="90.352" height="45.176"></rect>
+    </g>
+    <g>
+      <rect x="359.894" y="411.991" transform="matrix(0.7071 0.7071 -0.7071 0.7071 425.9363 -159.1427)" style="fill:#272729" width="90.352" height="45.176"></rect>
+      <rect x="421.647" y="262.912" style="fill:#272729" width="90.353" height="45.176"></rect>
+      <rect x="359.902" y="113.842" transform="matrix(0.7071 -0.7071 0.7071 0.7071 22.1736 326.3927)" style="fill:#272729" width="90.352" height="45.176"></rect>
+    </g>
+    <g>
+      <rect x="61.754" y="113.847" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 86.0663 308.5191)" style="fill:#56545A" width="90.352" height="45.176"></rect>
+      <path style="fill:#56545A" d="M256,29.504c-41.583,0-75.294,33.711-75.294,75.294c0,10.249,2.048,20.019,5.755,28.925
+		l138.915,0.382c3.81-9.008,5.917-18.912,5.917-29.307C331.294,63.213,297.583,29.504,256,29.504z"></path>
+    </g>
+    <path style="fill:#272729" d="M256,29.504v104.41l69.378,0.191c3.81-9.008,5.917-18.912,5.917-29.307
+	C331.294,63.213,297.583,29.504,256,29.504z"></path>
+    <circle style="fill: rgb(144, 12, 63);" cx="256" cy="285.5" r="180.706"></circle>
+    <g style="" transform="matrix(0.96926, 0, 0, 1.504968, 4.166162, -235.421021)"></g>
+    <svg x="100" y="260" width="140px" height="140px" viewBox="0 0 1148 1248" xmlns="http://www.w3.org/2000/svg"></svg>
+    <svg x="290" y="260" width="140px" height="140px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"></svg>
+  </svg>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M 34.208 16.336 C 32.812 15.878 31.352 15.611 29.889 15.543 L 28.31 18.806 C 26.621 18.909 24.977 19.362 23.464 20.119 L 20.442 18.117 C 19.21 18.919 18.097 19.889 17.123 20.994 L 18.687 24.267 C 17.73 25.653 17.046 27.222 16.697 28.879 L 13.253 29.983 C 13.108 31.444 13.166 32.916 13.434 34.367 L 16.966 35.183 C 17.452 36.805 18.253 38.31 19.331 39.623 L 18.039 43.014 C 19.099 44.033 20.287 44.904 21.582 45.597 L 24.423 43.349 C 25.992 43.975 27.671 44.293 29.363 44.264 L 31.212 47.373 C 32.672 47.19 34.099 46.802 35.449 46.231 L 35.463 42.602 C 36.925 41.763 38.22 40.647 39.251 39.307 L 42.844 39.806 C 43.606 38.553 44.194 37.192 44.579 35.774 L 41.761 33.511 C 42.016 31.834 41.948 30.135 41.551 28.484 L 44.178 25.995 C 43.664 24.616 42.98 23.31 42.109 22.125 L 38.576 22.917 C 37.429 21.672 36.058 20.652 34.525 19.953 L 34.208 16.336 Z M 30.115 26.361 C 34.109 27.016 35.887 31.743 33.328 34.868 C 32.089 36.379 30.115 37.069 28.202 36.678 C 24.227 35.945 22.558 31.179 25.172 28.109 C 26.389 26.679 28.279 26.014 30.125 26.361 L 30.115 26.361 Z" fill="#000" style="fill: rgb(88, 24, 69); stroke: rgb(136, 78, 160); stroke-width: 0.3;"></path>
+  <path d="M 33.567 32.701 L 33.077 31.194 L 32.105 28.212 C 32.057 28.058 31.839 28.058 31.788 28.212 L 30.818 31.194 L 27.595 31.194 L 26.622 28.213 C 26.574 28.059 26.355 28.059 26.306 28.212 L 25.334 31.194 L 24.844 32.701 C 24.801 32.839 24.85 32.989 24.966 33.075 L 29.206 36.15 L 33.445 33.075 C 33.563 32.991 33.611 32.841 33.567 32.701" style="fill : initial;"></path>
+</svg>
