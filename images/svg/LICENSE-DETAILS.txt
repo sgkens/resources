@@ -1,0 +1,4 @@
+Folder contents contains a mix of svg's sourced from iconduck and svgrepo see licenses below.
+
+- Creative Commons Attribution 4.0 International - IconDuck
+- CC Attribution License - SVG Repo - https://www.svgrepo.com/page/licensing/
